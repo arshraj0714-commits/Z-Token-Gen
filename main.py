@@ -319,7 +319,7 @@ class Config:
     VENUMZ_BASE_URL = "https://api.venumzmail.xyz"
     
     # SET VENUMZ API KEY (Auto-switches provider to VenumzMail)
-    VENUMZ_API_KEY = "vz-7d65630c-5c3e-41b3-b3ce-c62c3deda4c6"
+    VENUMZ_API_KEY = "VENUMZ_API_KEY"
     
     FIXED_PASSWORD = ""
     TOKEN_FETCH_DELAY = 1
@@ -329,7 +329,7 @@ class Config:
     USE_AUTO_SOLVER = False
     
     # CORRECT NOPECHA API KEY
-    NOPECHA_API_KEY = "zrm1pm31cid9mz5kpqwaslalw9ed0xpg" 
+    NOPECHA_API_KEY = "NOPECHA_API_KEY" 
     
     BRAVE_PATH = "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser"
     DISPLAY_NAMES = []

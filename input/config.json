@@ -5,7 +5,7 @@
     "email_providers": {
         "venumzmail": {
             "enabled": true,
-            "api_key": "vz-7d65630c-5c3e-41b3-b3ce-c62c3deda4c6",
+            "api_key": "VENUMZMAIL_API_KEY",
             "api_base": "https://api.venumzmail.xyz",
             "domains": [
                 "analgex.com",
@@ -41,6 +41,6 @@
     },
     "nopecha": {
         "enabled": true,
-        "api_key": "zrm1pm31cid9mz5kpqwaslalw9ed0xpg"
+        "api_key": "NOPECHA_API_KEY"
     }
 }
