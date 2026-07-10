@@ -2,7 +2,7 @@
 
 A powerful Python-based automation tool designed for fast and efficient workflow management.
 
-GitHub: https://github.com/PulseToolz
+GitHub: https://github.com/arshraj-commits
 
 ## Features
 
@@ -23,7 +23,7 @@ pip install truedriver tls_client requests rich
 Clone the repository:
 
 ```bash
-git clone https://github.com/PulseToolz/Discord-Token-Generator.git cd Discord-Token-Generator
+git clone https://github.com/arshraj-commits/Z-Token-Gen.git cd Z-Token-Gen
 ```
 
 ## 🚀 Start
